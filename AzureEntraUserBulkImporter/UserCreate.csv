@@ -1,0 +1,6 @@
+DisplayName,MailNickname,UserPrincipalName,Password,RoleName
+John Doe,jdoe,jdoe@realisfleuze.onmicrosoft.com,Password123,Global Administrator
+Jane Doe,janed,janed@realisfleuze.onmicrosoft.com,Password123,Global Reader
+Alex Smith,asmith,asmith@realisfleuze.onmicrosoft.com,Password123,Guest Inviter
+Maria Garcia,mgarcia,mgarcia@realisfleuze.onmicrosoft.com,Password123,Identity Governance Administrator
+James Johnson,jjohnson,jjohnson@realisfleuze.onmicrosoft.com,Password123,Insights Administrator
